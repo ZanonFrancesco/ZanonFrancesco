@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ZanonFrancesco
+- ⚒️ Working for WanMine
+- 🗺️Linguaggi --> Javascript, CPP, CSS, HTML
+- Modeller, Addoner
